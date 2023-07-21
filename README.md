@@ -1,4 +1,4 @@
-![Kapture 2023-07-21 at 12 09 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/f5e3c788-9ca3-4682-bab1-19f25e0a0838)# CodePath_ios_Prework
+# CodePath_ios_Prework
 # Prework - IOS-backgroundColor changer
 
 Submitted by: Charles Liu
@@ -16,16 +16,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![Kapture 2023-07-21 at 12 09 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/f5e3c788-9ca3-4682-bab1-19f25e0a0838)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
 
