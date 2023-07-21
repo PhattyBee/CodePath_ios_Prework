@@ -17,7 +17,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 ![Kapture 2023-07-21 at 12 09 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/f5e3c788-9ca3-4682-bab1-19f25e0a0838)
-![Kapture 2023-07-21 at 12 17 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/446b0a8b-9a26-42e5-a311-b35e11377fb3)
 
 
 ## App Brainstorming (Step 4)
