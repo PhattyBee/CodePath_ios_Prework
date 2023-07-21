@@ -1,4 +1,4 @@
-# CodePath_ios_Prework
+![Kapture 2023-07-21 at 12 09 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/f5e3c788-9ca3-4682-bab1-19f25e0a0838)# CodePath_ios_Prework
 # Prework - IOS-backgroundColor changer
 
 Submitted by: Charles Liu
@@ -31,7 +31,7 @@ GIF created with ...
 
 ## Notes
 
-Step 3 was a little bit challanging to me. It took me few minutes to figure out how to link a UIbutton to the coding file.
+Step 3 was a little bit challenging for me. It took me a few minutes to figure out how to link a UI button to the coding file.
 
 ## License
 
