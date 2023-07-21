@@ -19,7 +19,9 @@ The following **required** functionality is completed:
 ![Kapture 2023-07-21 at 12 09 11](https://github.com/PhattyBee/CodePath_ios_Prework/assets/126411853/f5e3c788-9ca3-4682-bab1-19f25e0a0838)
 
 
-## App Brainstorming (Step 4)
+## App Brainstorming
+Favourite App:
+Snapchat:
 
 ## Notes
 
