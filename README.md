@@ -24,9 +24,11 @@ Favourite App:
 
 Snapchat: 
  - The feature I like is the map. It allows users to locate friends' locations and share their own, which I found very useful.
+ - AI Chatting.
 
 WeChat: 
- - The payment feature is really convenient, the app itself is a chat app, but the payment feature will give users the availability to send money or receive money inside the chat window. The second feature would be the mini program inside the app, users can side-load many different small programs to increase their user experience and also complete different tasks by using those programs.
+ - The payment feature is really convenient, the app itself is a chat app, but the payment feature will give users the availability to send money or receive money inside the chat window.
+ - The second feature would be the mini program inside the app, users can side-load many different small programs to increase their user experience and also complete different tasks by using those programs.
 
 DaysMatter Camera: 
  - This app is designed to update one or a few photos per day to save the best memory in your life. For example, users can record their everyday selfies and save them in the cloud inside the app, each photo will have its own date stamp on it. So after years when users look through the album, they can see the changes on their faces.
